@@ -10,6 +10,9 @@
 ✔️ 어떤 시간에도 이용할 수 있는 편리함<br>
 ✔️ 함께 배달할 메이트만 있다면 어떤 식당이든 OK<br>
 
+### 기대효과
+서비스 이용 횟수 감소 ➡️ 수요- 공급 미스매치 감소 ➡️ 배달노동 공급 감소
+
 ### 오픈채팅을 이용한 주문 버전
 ![(1)](https://github.com/user-attachments/assets/edee4acc-2bde-46db-91e9-ec23449de7ef)
 ![(2)](https://github.com/user-attachments/assets/94863e5f-d52f-4647-8aff-1fc59ce466b0)
