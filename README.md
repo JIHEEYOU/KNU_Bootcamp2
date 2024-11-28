@@ -14,10 +14,8 @@
 서비스 이용 횟수 감소 ➡️ 수요- 공급 미스매치 감소 ➡️ 배달노동 공급 감소
 
 ### 오픈채팅을 이용한 주문 버전
-![(1)](https://github.com/user-attachments/assets/edee4acc-2bde-46db-91e9-ec23449de7ef)
-![(2)](https://github.com/user-attachments/assets/94863e5f-d52f-4647-8aff-1fc59ce466b0)
-![(3)](https://github.com/user-attachments/assets/410c5f71-d508-4699-a747-a5d11bbca750)
-![(4)](https://github.com/user-attachments/assets/12311de8-a860-429e-936a-6905cf8b76b6)
+![(1)](https://github.com/user-attachments/assets/edee4acc-2bde-46db-91e9-ec23449de7ef), ![(2)](https://github.com/user-attachments/assets/94863e5f-d52f-4647-8aff-1fc59ce466b0)
+![(3)](https://github.com/user-attachments/assets/410c5f71-d508-4699-a747-a5d11bbca750) ,![(4)](https://github.com/user-attachments/assets/12311de8-a860-429e-936a-6905cf8b76b6)
 
 ### 서버를 이용한 주문 버전
 ![1](https://github.com/user-attachments/assets/11a4239e-f20d-4b37-bb3b-bb558a7cd0bf)
